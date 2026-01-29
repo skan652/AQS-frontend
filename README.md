@@ -2,6 +2,8 @@
 
 A Flutter-based mobile application for monitoring and displaying air quality sensor data in real-time. This application provides users with intuitive visualizations of gas parameters, temperature, humidity, and other environmental metrics.
 
+**Backend:** [https://github.com/skan652/actia-backend](https://github.com/skan652/actia-backend)
+
 ## Features
 
 - **User Authentication**: Secure login and signup with password recovery functionality
